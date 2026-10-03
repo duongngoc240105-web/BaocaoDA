@@ -39,9 +39,9 @@ Hệ thống Web Quản lý Phòng trọ cung cấp giải pháp số hóa tập
 
 **1. Vai trò & Phân công Trách nhiệm trong Nhóm**
 
-**Vai trò: **UI Frontend Developer & Backend Designer cho Hồ sơ&Hợp đồng của khách hàng
+***Vai trò: ***UI Frontend Developer & Backend Designer cho Hồ sơ&Hợp đồng của khách hàng
 
-**Trách nhiệm đảm nhận:**
+***Trách nhiệm đảm nhận:***
 
 oThiết kế Giao diện người dùng (UI/UX) cho màn hình Quản lý Hồ sơ (tenants), Hợp đồng thuê trọ (contracts), Danh sách người ở cùng (contract_members), Lịch sử thuê.
 
@@ -61,7 +61,7 @@ oĐặc tả chi tiết logic nghiệp vụ và kịch bản xử lý API cho ph
 
        +Đối với Khách thuê: Tự động liên kết tài khoản cá nhân để xem thông tin hợp đồng, hóa đơn và gửi phản hồi/sự cố cho chủ trọ.
 
-B. Màn hình Quản lý Hợp đồng (contracts)
+**B. Màn hình Quản lý Hợp đồng (contracts)**
 
  **Tổng quan & Bộ lọc danh sách hợp đồng:**
 
@@ -117,7 +117,7 @@ Trong bước phát triển logic backend tiếp theo, em thiết lập các quy
 2. Giao diện Màn hình Hợp đồng(contracts)
 
 
-V. CÔNG CỤ SỬ DỤNG & QUY TRÌNH QUẢN LÝ CODE
+**V. CÔNG CỤ SỬ DỤNG & QUY TRÌNH QUẢN LÝ CODE**
 
 Công nghệ UI: ReactJS, HTML/CSS, Tailwind CSS / Bootstrap.
 
